@@ -1,4 +1,4 @@
-### Hi there, I'm Sol
+### Hello, I'm Sol
 
 - 🔭 I’m currently working on ... turning my personal project: macronutrients calculatorinto an Android application
 - 🌱 I’m currently learning ... Kotlin, Android Development, React, SQL, and C!
